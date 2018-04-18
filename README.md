@@ -8,4 +8,6 @@
 
 前後端皆為Java，有只用些許API
 
+系統展示連結:https://www.youtube.com/watch?v=rgcYT7egHKA
+
 總共有四人一起完成此專案
