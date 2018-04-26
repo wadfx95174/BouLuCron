@@ -6,7 +6,7 @@
 
 可以改善的部分:如果可以添加錄影的功能會使此專案更為完整
 
-前後端皆為Java，有只用些許API
+前後端皆為Java，只有用些許API
 
 系統展示連結:https://www.youtube.com/watch?v=rgcYT7egHKA
 
